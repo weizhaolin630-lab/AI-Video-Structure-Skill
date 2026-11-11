@@ -1,4 +1,5 @@
 # AI Tech \- Video Structure
+(Skill在“visual-prompt-studio”文件夹内)
 
 ## Introduce：
 
